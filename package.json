@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build-gitbook": "node ./node-scripts/build-gitbook.js",
-    "deploy-ghpages": "node ./node-scripts/deploy-gh-pages.js"
-  
+    "deploy-ghpages": "node ./node-scripts/deploy-gh-pages.js",
+    "deploy-gitbook": "node ./node-scripts/deploy-gitbook.js"
   },
   "repository": {
     "type": "git",
@@ -28,7 +28,8 @@
     "async": "^1.4.0",
     "fs-extra": "^0.22.1",
     "gh-pages": "^0.3.1",
+    "gitbook": "^2.1.0",
     "gitbook-cli": "^0.3.4",
-    "gitbook": "^2.1.0"
+    "gulp": "^3.9.1"
   }
 }
