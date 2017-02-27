@@ -1,6 +1,6 @@
 var gitbook = require('gitbook');
 
-var book = new gitbook.Book('txt/', {
+var book = new gitbook.Book('./txt/', {
 
 	config: {
 
