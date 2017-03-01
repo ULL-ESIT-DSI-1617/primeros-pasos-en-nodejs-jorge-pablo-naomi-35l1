@@ -9,7 +9,7 @@ gulp.task('deploy-ghpages', ['build'], shell.task([
     'git push origin ghpages'
 ]));
 
-gulp.task('deploy-ghpages', ['build'], shell.task([
+gulp.task('deploy-gitbook', ['build'], shell.task([
     'git push --force gb master'
 ]));
 
