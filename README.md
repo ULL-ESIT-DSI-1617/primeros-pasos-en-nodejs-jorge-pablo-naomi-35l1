@@ -14,11 +14,12 @@
   SERVICIO IAAS de la ULL
   Como Desplegar una Aplicación Web en iaas.ull.es
 
-### Depliegue en GitHub Pages
+### Depliegues
 * [Descripción de la práctica](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales2.html)
 * [Desarrollo de Sistemas Informáticos (Campus Virtual)](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
 * [Libro en GitBook](https://alu0100812428.gitbooks.io/practica-2-primeros-pasos-node-js/)
 * [Libro en GitHub Pages](https://ull-esit-dsi-1617.github.io/primeros-pasos-en-nodejs-jorge-pablo-naomi-35l1/)
+* [Despliegue en IAAS](http://10.6.128.24:8081/)
 
 
 ### Miembros del Grupo:
