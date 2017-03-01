@@ -21,6 +21,8 @@
 * [Libro en GitHub Pages](https://ull-esit-dsi-1617.github.io/primeros-pasos-en-nodejs-jorge-pablo-naomi-35l1/)
 * [Despliegue en IAAS](http://10.6.128.24:8081/)
 
+*Nota: Necesario estar conectado a la VPN de la ULL para acceder al enlace del despliegue en el **IAAS***
+
 
 ### Miembros del Grupo:
 * [Pablo Sebastián Caballero](https://alu0100812428.github.io/)
