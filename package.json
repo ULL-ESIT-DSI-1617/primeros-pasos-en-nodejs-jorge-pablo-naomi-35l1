@@ -1,0 +1,35 @@
+{
+  "name": "gitbook-boilerplate",
+  "version": "0.0.1",
+  "description": "GitBook Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "build-gitbook": "node ./scripts/build-gitbook.js",
+    "deploy-ghpages": "node ./scripts/deploy-gh-pages.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enten/gitbook-boilerplate.git",
+    "wiki": "https://github.com/enten/gitbook-boilerplate.wiki.git"
+  },
+  "keywords": [
+    "gitbook",
+    "boilerplate",
+    "starter"
+  ],
+  "author": "Steven Enten <steven@enten.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enten/gitbook-boilerplate/issues"
+  },
+  "homepage": "https://github.com/enten/gitbook-boilerplate#readme",
+  "devDependencies": {
+    "async": "^1.4.0",
+    "fs-extra": "^0.22.1",
+    "gh-pages": "^0.3.1",
+    "gitbook": "^2.1.0",
+    "gitbook-cli": "^0.3.4",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.1"
+  }
+}
