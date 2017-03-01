@@ -4,7 +4,7 @@ var book = new gitbook.Book('./txt/', {
 
 	config: {
 
-		output: './_book'
+		output: './gh-pages'
 	}
 });
 
