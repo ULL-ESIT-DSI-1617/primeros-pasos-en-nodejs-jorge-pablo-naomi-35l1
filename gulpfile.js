@@ -2,15 +2,15 @@ var gulp = require('gulp');
 var shell = require('gulp-shell');
 
 gulp.task('build', shell.task([
-    'gitbook build'
+    'npm run build-gitbook'
 ]));
-    
+
 gulp.task('deploy-ghpages', ['build'], shell.task([
-    'git push origin ghpages'
+    'npm run deploy-ghpages'
 ]));
 
 gulp.task('deploy-gitbook', shell.task([
-    'git push --force gb master'
+    'git push --force gitbook master'
 ]));
 
 gulp.task('default',['build','deploy-ghpages']);

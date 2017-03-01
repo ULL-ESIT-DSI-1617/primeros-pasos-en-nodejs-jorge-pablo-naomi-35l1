@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build-gitbook": "node ./node-scripts/build-gitbook.js",
-    "deploy-ghpages": "node ./node-scripts/deploy-gh-pages.js",
-    "deploy-gitbook": "node ./node-scripts/deploy-gitbook.js"
+    "deploy-ghpages": "node ./node-scripts/deploy-gh-pages.js"
   },
   "repository": {
     "type": "git",
